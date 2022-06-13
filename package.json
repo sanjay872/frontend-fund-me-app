@@ -1,0 +1,14 @@
+{
+  "name": "frontend-fund-me-app",
+  "version": "1.0.0",
+  "description": "1. using HTML/ JS 2. interacting with contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
